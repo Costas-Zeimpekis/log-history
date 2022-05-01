@@ -1,6 +1,9 @@
-!asdAUDIENCE asdasd
-asdasd
+<<<<<<< HEAD
 1!2AUDIENCE 
 
+=======
+!asdAUDIENCE asdasd
+asdasd
+>>>>>>> master
 This course is for anyone who wants to learn Git. 
 No prior experience is required.
